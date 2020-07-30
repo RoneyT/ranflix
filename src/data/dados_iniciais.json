@@ -1,46 +1,38 @@
 {
   "categorias": [
     {
-      "titulo": "Roney Fernandes",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Imersão #React",
+      "link": "https://www.alura.com.br",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
-      "videos": [
+            "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Imersão React Live #01 - Analisando o front-end do Netflix, do Spotify e do Ifood",
+          "url": "https://www.youtube.com/watch?v=Dcn-tVmSxyU"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "#ImersaoReact Aula 1 - React Components e AluraFlix",
+          "url": "https://youtu.be/DQ3A2PTpDBU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "#ImersaoReact Aula 2 - Roteamento e State",
+          "url": "https://youtu.be/B2GNlpRWhcw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "#ImersaoReact Aula 3 - Formulários e Componentes",
+          "url": "https://youtu.be/ybnbwXSUCrE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "#ImersaoReact Aula 4",
+          "url": ""
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "#ImersaoReact Aula 5",
+          "url": ""
+        }       
       ]
     },
     {
